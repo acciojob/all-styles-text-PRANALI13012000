@@ -1,12 +1,11 @@
 .main{
 			width:200px;
 			background-color:purple;
-			left-side-border-color:green;
-			left-side-border-thickness:5 pixels;
+			border-left:5px solid green;			
 			padding:10px;
 		}
-		.heading{
-			font-size:20pixels;
+#heading{
+			font-size:20px;
 			color:white;
 			text-decoration:underline;
 		}
